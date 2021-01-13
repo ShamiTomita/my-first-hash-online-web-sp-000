@@ -1,5 +1,5 @@
 def my_hash
-  my_hash = {orientation => "GAY", }
+  my_hash = {orientation => "GAY", fave_color => "purple"}
   
 end
 
